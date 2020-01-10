@@ -1,0 +1,7 @@
+D:\wwwroot\Git_TodaySalesServer\Foundation\bin\Debug\netstandard2.0\Foundation.deps.json
+D:\wwwroot\Git_TodaySalesServer\Foundation\bin\Debug\netstandard2.0\Foundation.dll
+D:\wwwroot\Git_TodaySalesServer\Foundation\bin\Debug\netstandard2.0\Foundation.pdb
+D:\wwwroot\Git_TodaySalesServer\Foundation\obj\Debug\netstandard2.0\Foundation.AssemblyInfoInputs.cache
+D:\wwwroot\Git_TodaySalesServer\Foundation\obj\Debug\netstandard2.0\Foundation.AssemblyInfo.cs
+D:\wwwroot\Git_TodaySalesServer\Foundation\obj\Debug\netstandard2.0\Foundation.dll
+D:\wwwroot\Git_TodaySalesServer\Foundation\obj\Debug\netstandard2.0\Foundation.pdb
