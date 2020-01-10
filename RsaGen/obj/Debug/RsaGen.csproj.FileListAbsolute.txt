@@ -3,3 +3,9 @@ D:\wwwroot\Git_TodaySalesServer\RsaGen\bin\Debug\RsaGen.exe
 D:\wwwroot\Git_TodaySalesServer\RsaGen\bin\Debug\RsaGen.pdb
 D:\wwwroot\Git_TodaySalesServer\RsaGen\obj\Debug\RsaGen.exe
 D:\wwwroot\Git_TodaySalesServer\RsaGen\obj\Debug\RsaGen.pdb
+D:\wwwroot\TodaySalesServer\RsaGen\bin\Debug\RsaGen.exe.config
+D:\wwwroot\TodaySalesServer\RsaGen\bin\Debug\RsaGen.exe
+D:\wwwroot\TodaySalesServer\RsaGen\bin\Debug\RsaGen.pdb
+D:\wwwroot\TodaySalesServer\RsaGen\obj\Debug\RsaGen.csprojAssemblyReference.cache
+D:\wwwroot\TodaySalesServer\RsaGen\obj\Debug\RsaGen.exe
+D:\wwwroot\TodaySalesServer\RsaGen\obj\Debug\RsaGen.pdb
